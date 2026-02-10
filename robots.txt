@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ChokFung-sg.github.io/dash-cars-sg/sitemap.xml
